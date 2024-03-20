@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 ./$PYFILEQ
+python3 ./$PYFILE
