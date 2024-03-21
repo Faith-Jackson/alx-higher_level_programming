@@ -1,12 +1,22 @@
-function that prints all integers of a list
-function that retrieves an element from a list like in C
-function that replaces an element of a list at a specific position (like in C)
-function that prints all integers of a list, in reverse order
-function that replaces an element in a list at a specific position without modifying the original list (like in C).
-function that removes all characters c and C from a string
-function that prints a matrix of integers
-function that adds 2 tuples
-function that returns a tuple with the length of a string and its first character
-function that finds the biggest integer of a list
-function that finds all multiples of 2 in a list
-function that deletes the item at a specific position in a list
+# 0x03. Python - Data Structures: Lists, Tuples
+## Description
+This project directory contains tasks that acheive the following learning objectives:
+
+* Why Python programming is awesome
+* What are lists and how to use them
+* What are the differences and similarities between strings and lists
+* What are the most common methods of lists and how to use them
+* How to use lists as stacks and queues
+* What are list comprehensions and how to use them
+* What are tuples and how to use them
+* When to use tuples versus lists
+* What is a sequence
+* What is tuple packing
+* What is sequence unpacking
+* What is the `del` statement and how to use it
+
+### Featured source files
+* Python scripts
+* C scripts
+
+See file specifications [here](https://github.com/Samuel-IG16/alx-higher_level_programming#readme)
