@@ -1,9 +1,11 @@
 #!/usr/bin/python3
-""" this module defines a class Square"""
+
+""" This is a class for squares, this time with am attribute"""
 
 
 class Square:
-    """ class for Square"""
+    """ the attribute object is a dimention"""
+
     def __init__(self, size):
-        """ Initialize class """
         self.__size = size
+    pass
